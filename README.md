@@ -15,10 +15,10 @@ The website collects all my projects and assignments in one place, where users c
 5. **SQL Assignment** – Database queries and schema practice
 6. **WinForms Application** – Desktop GUI built with .NET
 7. **PokeAPI Project** (Full-Stack): 
--- A complete web application with both frontend and backend
-- Uses ASP.NET for backend logic and API integration
-- Frontend built with HTML, CSS, JavaScript
-- Connects to external APIs and demonstrates full-stack development principles
+  - A complete web application with both frontend and backend
+  - Uses ASP.NET for backend logic and API integration
+  - Frontend built with HTML, CSS, JavaScript
+  - Connects to external APIs and demonstrates full-stack development principles
 
 ## 🛠️ Technologies
 - **Frontend:** HTML, CSS, JavaScript
